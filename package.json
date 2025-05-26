@@ -1,0 +1,11 @@
+{
+  "name": "node-http-proxy-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/blackkensai/node-http-proxy-example.git",
+  "author": "blackkensai <blackkensai@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "http-proxy": "^1.18.1"
+  }
+}
